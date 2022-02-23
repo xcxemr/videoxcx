@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+
+wx:
+  appid: sdfaasdf
+  sec: asdfasdfasdf
+jwt:
+  key: xxxdddfffssdfdsa
